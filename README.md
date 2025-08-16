@@ -7,5 +7,5 @@ This Java program implements and compares three search algorithms: Sequential Se
 - Automated experiments with 1,000 random searches for each algorithm
 - Results sorted by average number of iterations
 
-## Technologies
-- Java
+## Tech Stack
+- Java, OOP (Inheritance, Interfaces, Polymorphism), Algorithms (Searching), Arrays
